@@ -1,71 +1,29 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
-#
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
-#
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
-#
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-#
-# For example:
-#
-# 102.54.94.97 rhino.acme.com # source server
-# 38.25.63.10 x.acme.com # x client host
 
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1 localhost
-#	::1 localhost
-#	127.0.0.1 platform.wondershare.com
-#	127.0.0.1 activation.cyberlink.com
-#	127.0.0.1 pc-api.wondershare.cc
-#	127.0.0.1	analytics.wondershare.cc
-#	127.0.0.1 cloud-api.wondershare.cc
-#	127.0.0.1 sparrow.wondershare.com
-#	127.0.0.1 wae.wondershare.cc
-#	127.0.0.1 api.wondershare.com
-#	127.0.0.1 antipiracy.wondershare.com
-#	127.0.0.1 wondershare.com
-#	127.0.0.1 mail.insidews.wondershare.com
-#	127.0.0.1 accounts.wondershare.com
-#	127.0.0.1 platform.wondershare.com
-#	127.0.0.1 activation.cyberlink.com
-#	127.0.0.1 pc-api.wondershare.cc
-#	127.0.0.1 dynamic-eus-rs.wondershare.com
-#	127.0.0.1 analytics.wondershare.cc
-#	127.0.0.1 cloud-api.wondershare.cc
-#	127.0.0.1 sparrow.wondershare.com
-#	127.0.0.1 api.wondershare.cc
-#	127.0.0.1 wae.wondershare.cc
-#	127.0.0.1 cbs.wondershare.com
-#	127.0.0.1 filstock-api-eus.wondershare.cc
-#	127.0.0.1 api.wondershare.com
-#	127.0.0.1 antipiracy.wondershare.com
-#	127.0.0.1 wondershare.com
-#	127.0.0.1 dc-static-wondershare.com
-#	127.0.0.1 filmstock.wondershare.com
-#	127.0.0.1 effects.wondersharecom.com
-#	127.0.0.1 mail.insidews.wondershare.com
-#	127.0.0.1 accounts.wondershare.com
-127.0.0.1	easeus.com
-127.0.0.1	www.easeus.com
-127.0.0.1	activation.easeus.com
-127.0.0.1	easeus.com.cn
-127.0.0.1	www.easeus.com.cn
-127.0.0.1	track.easeus.com
-127.0.0.1	track.easeus.com.cn
-127.0.0.1	api.easeus.com
-127.0.0.1	update.easeus.com
-127.0.0.1	map2.hwcdn.net
-127.0.0.1	easeusinfo.us-east-1.log.aliyuncs.com
-127.0.0.1	aaa100cd68bbe03f3.awsglobalaccelerator.com
-127.0.0.1	uompro.easeus.com
-127.0.0.1	order.easeus.com
-127.0.0.1	curl.haxx.se
-127.0.0.1	buy.easeus.com
-127.0.0.1	v2api-uoss.easeus.com
-127.0.0.1 localhost
+Main key: 
+Microsoft Windows 10 Pro 64-bit
+Computer name:TINKPAD-T450
+W269N-WFGWX-YVC9B-4J6C9-T83GX
 
+Backup key:
+Microsoft Windows 10 Pro 64-bit
+TINKPAD-T450
+YC7N8-G7WR6-9WR4H-6Y2W4-KBT6X
+
+Windows product key: 
+R3HB7-X6HMH-F48J3-8XJVP-9QBP9
+
+Windows OEM product key in BIOS:   
+D6NGV-R2DPT-MRHCC-62TW9-M97Q2
+
+Product Name: Windows 10 Pro
+Product ID: 00331-10000-00001-AA182
+Product Key: YC7N8-G7WR6-9WR4H-6Y2W4-KBT6X
+
+Windows 10 Enterprise
+Product Part No.: [TH]X19-9
+Installed from 'Volume' media.
+Product ID: 00331-10000-00001-AA182  match to CD Key data
+CD Key: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Computer Name: TINKPAD-T450
+Registered Owner: Lenovo
+Registered Organization:
